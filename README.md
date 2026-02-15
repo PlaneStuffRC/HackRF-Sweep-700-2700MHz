@@ -33,7 +33,7 @@ This project captures a full sweep from **750 MHz to 2700 MHz**, compares baseli
 - Required Python packages (see below)
 
 ---
-Nice to read
+Nice to read:
 https://skylinedrones.ro/drone-jamming-in-eastern-europe/
 https://www.nccgroup.com/research-blog/technical-advisory-expresslrs-vulnerabilities-allow-for-hijack-of-control-link/
 https://events.gnuradio.org/event/26/contributions/771/attachments/238/622/GabrielGarcia-FAUCAAI-Grcon25.pdf
