@@ -39,5 +39,5 @@ This project captures a full sweep from **750 MHz to 2700 MHz**, compares baseli
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/elrs-wide-spectrum-analysis.git
-cd elrs-wide-spectrum-analysis
+git clone https://github.com/PlaneStuffRC/HackRF-Sweep-700-2700MHz
+cd HackRF-Sweep-700-2700MHz
